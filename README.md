@@ -15,8 +15,9 @@ Anything homebrew for Daggerheart!
 ### [Daggerheart Card Creator](https://cardcreator.daggerheart.com)
 ### Daggerheart Character Creator
 ## Classes
-### Custom Classes Template
-### Swashbuckler
+### [Custom Classes Template, Swashbuckler, Shaman](https://www.reddit.com/r/daggerheart/comments/1lh9pg8/daggerheart_homebrewery_class_template_created_by/)
+### [The Kingpin](https://www.reddit.com/r/daggerheart/comments/1ljduwb/homebrew_class_the_kingpin_valor_grace/)
+### [Magus](https://www.reddit.com/r/daggerheart/comments/1lk2xfs/daggerheart_magus/)
 ## CAMPAIGN HELPERS
 ### [Daggerstack Character creator](http://daggerstack.com/)
 ### [Charkeeper](https://charkeeper.org/)
