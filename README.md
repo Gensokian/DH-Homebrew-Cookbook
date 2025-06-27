@@ -19,6 +19,7 @@ Anything homebrew for Daggerheart!
 ### [The Kingpin](https://www.reddit.com/r/daggerheart/comments/1ljduwb/homebrew_class_the_kingpin_valor_grace/)
 ### [Magus](https://www.reddit.com/r/daggerheart/comments/1lk2xfs/daggerheart_magus/)
 ## CAMPAIGN HELPERS
+### [Campaign Frame & Location Templates](https://www.reddit.com/r/daggerheart/comments/1kssuua/campaign_frame_location_templates/)
 ### [Daggerstack Character creator](http://daggerstack.com/)
 ### [Charkeeper](https://charkeeper.org/)
 A simple tool for "keeping" your characters.
