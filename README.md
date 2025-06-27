@@ -11,7 +11,7 @@ Anything homebrew for Daggerheart!
 - TBD
 
 ## OFFICIAL SOURCES
-### [Daggerheart SRD](https://daggerheart.com/srd
+### [Daggerheart SRD](https://daggerheart.com/srd)
 ### [Daggerheart Card Creator](https://cardcreator.daggerheart.com)
 ### Daggerheart Character Creator
 ## Classes
@@ -30,3 +30,8 @@ A tool, for writing the KOHD Still work in Progress, but lets see where this goe
 ### [Daggersearch](https://daggersearch.com)
 ### [Jutier's GM Screen](https://jutier.github.io/Daggerheart/)
 ### [moficodes' Adversary creator](https://daggerheart.tabletoptown.app/)
+### [Obsidian HP/ST Tracker](https://github.com/Braintrust18/daggerheart-obsidian-scripts)
+## VTT Content
+### [Owlbear Radio DH Extension](https://youtu.be/_Ag5A32VBEc)
+
+
